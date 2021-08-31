@@ -1,0 +1,33 @@
+[
+	{
+		"ürün": "MB 100000 bakiye çekiliş bileti",
+    "detay": "100000 değerindeki küçük çekiliş bileti",
+		"değer": "5000",
+    "marketid": "1"
+	},
+	{
+		"ürün": "MB 1000000 bakiye çekiliş bileti",
+    "detay": "1000000 değerindeki destansı çekiliş bileti",
+		"değer": "10000",
+    "marketid": "2"
+	},
+	{
+		"ürün": "MB 10000000 bakiye çekiliş bileti",
+    "detay": "10000000 değerindeki gizemli çekiliş bileti",
+		"değer": "20000",
+    "marketid": "3"
+	},
+	{
+		"ürün": "MB bakiye 1000000000 çekiliş bileti",
+    "detay": "1000000000 değerindeki büyük çekiliş bileti",
+		"değer": "100000",
+    "marketid": "4"
+	},
+	{
+		"ürün": "Muhafız bot admin",
+    "detay": "Bunu alırsanız istediğiniz kullanıcıya para gönderebilirsiniz.",
+		"değer": "200000",
+    "marketid": "5"
+	}
+
+]

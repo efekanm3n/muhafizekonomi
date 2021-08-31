@@ -1,0 +1,33 @@
+[
+	{
+		"isim": "Küçük kasa",
+    "açıklama": "Başlangıçta kullanılabilecek kasa.",
+		"fiyat": "100",
+    "kasaid": "1"
+	},
+	{
+		"isim": "Orta Kasa",
+    "açıklama": "Biraz para mı kastın?",
+		"fiyat": "500",
+    "kasaid": "2"
+	},
+	{
+		"isim": "Yüksek Kasa",
+    "açıklama": "Gayet iyi.",
+		"fiyat": "1000",
+    "kasaid": "3"
+	},
+	{
+		"isim": "Gizemli Kasa",
+    "açıklama": "Gizemli seviye bir kasa.",
+		"fiyat": "2000",
+    "kasaid": "4"
+	},
+	{
+		"isim": "Efsanevi Kasa",
+    "açıklama": "EFSANEVİ bir kasa, dikkatli açılması önerilir!",
+		"fiyat": "3000",
+    "kasaid": "5"
+	}
+
+]
